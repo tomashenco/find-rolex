@@ -7,7 +7,8 @@ python setup.py install
 # Dependencies
 scipy 0.17.0+
 numpy 1.10.4+
-sklearn 2.7.12+
+scikit-learn 2.7.12+
+jupyter (to read research.ipynb notebook)
 
 # Training model
 python train_rolex.py path_to_logo_images path_to_background_images
